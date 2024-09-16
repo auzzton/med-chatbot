@@ -1,8 +1,11 @@
-#these are the libraries we need to import 
-pypdf
+streamlit
 langchain
-ctransformers
-sentence_transformers
-faiss_cpu
-huggingface_hub
 langchain_community
+huggingface-hub
+faiss-cpu
+ctransformers
+google-generativeai
+googletrans==4.0.0-rc1
+pathlib
+pypdf
+httpcore==0.15.0
