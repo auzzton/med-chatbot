@@ -8,3 +8,4 @@ This is a healthcare chatbot using gemini and llama (LLM) including a text and i
 3. Hospital locator is in the location.py file where the user can find the hospitals in their locality by giving their location details as an input
 
 NOTE: USE YOUR OWN API KEY 
+The only working model is mode4.py and hospital locator is location.py , the rest of the models are meant for testing with different LLMs
