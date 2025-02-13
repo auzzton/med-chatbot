@@ -1,4 +1,5 @@
 import time
+import os
 import streamlit as st
 from langchain_community.document_loaders import PyPDFLoader, DirectoryLoader
 from langchain.prompts import PromptTemplate
